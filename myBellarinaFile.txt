@@ -1,0 +1,9 @@
+this is my bellarina file.
+ 
+ this is my new file
+
+ i have created 7 repositories
+
+ git add *
+ git commit -m "this is some text"
+ git push
