@@ -1,0 +1,33 @@
+
+  img {
+    width: 200px;
+    position: relative;
+    top: 10%; 
+    left: 0; 
+    transform: translate( 250%, 0);
+    border-radius: 50%;
+  }
+  body{
+    background-color: #202123;
+  }
+  h1{
+    color: #F7454A ;
+     text-decoration: underline #FFFFFF;
+  }
+  p{
+    color: #FFFFFF;
+  }
+  h2{
+    color: #F7454A;
+    text-decoration: underline #FFFFFF;
+  }
+  th{
+    color: #FFFFFF;
+  }
+  td{
+    color: #FFFFFF;
+  }
+  li{
+    color: #FFFFFF;
+  }
+  
